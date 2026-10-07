@@ -116,7 +116,7 @@ The application provides practical wellness and study-oriented suggestions witho
 
 ### 📚 Assessment History
 
-Users can view previous completed assessments including:
+Users can view previous completed assessments, including :
 
 - Assessment date
 - Overall stress score
